@@ -1,0 +1,2 @@
+# AutomaticLogDisplaySystem
+ using pyqt5
