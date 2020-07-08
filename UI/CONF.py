@@ -5,7 +5,7 @@ accLogTable = "accLog"
 # 数据库中表的列名
 columns = ['sectionNum', 'caseNum', 'result', 'statusNum' ,'time']
 # 登陆数据库的信息
-sqlInfo = {'host': 'localhost', 'username': 'root', 'password': 'corei3window7', 'database': 'test'}
+sqlInfo = {'host': 'localhost', 'username': 'root', 'password': 'xxxxxxx', 'database': 'test'}
 # 窗口的标题
 windowName = "SQL LOG"
 # 窗口中表的列名
