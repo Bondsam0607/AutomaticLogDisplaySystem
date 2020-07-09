@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 
 ### 1.  界面布局
 
-![Screen Shot 2020-07-08 at 1.32.42 PM](./Picture2.png)
+![Picture2](./Picture2.png)
 
 QWidget中不能直接放置QWidget，需要使用QLayout放置多个QWidget后，再使用QWidget中的setLayout函数添加layout以达到多个QWidget嵌套的效果。
 
