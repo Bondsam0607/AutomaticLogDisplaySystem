@@ -2,9 +2,13 @@
 
 ## 一、开发环境
 
-1. Python 3.7.6
-2. PyQt5
-3. MySQL 8.0.20
+进入PyQt文件夹后，利用
+
+```
+pip3 install -r requirements.txt
+```
+
+安装相关环境
 
 ## 二、项目功能
 
